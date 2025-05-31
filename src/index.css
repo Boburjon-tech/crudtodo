@@ -6,3 +6,11 @@
      text-decoration: line-through;
      color: green;
 }
+
+.isAdd {
+     display: none;
+}
+
+.isUpdate {
+     display: none;
+}
